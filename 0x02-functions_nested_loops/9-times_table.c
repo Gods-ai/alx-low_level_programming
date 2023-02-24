@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * times_tables - prints the times table
+ * times_table - prints the times table
  * Here we will need to specify roll,column and digit of current result
  * rope = roll, cone = column and dgit = digits
  *
