@@ -1,1 +1,1 @@
-This readme is about low level programming
+ First debugging task for this course
