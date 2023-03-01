@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * reset_to_98(int *n) - function takes a pointer to an interger
- * @*n: will update the valu of n to 98
+ * reset_to_98 - function takes a pointer to an interger
+ * @n: will update the valu of n to 98
  *
  * Return: None since were void
  */
